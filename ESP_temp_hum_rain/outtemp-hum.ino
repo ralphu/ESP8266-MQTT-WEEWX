@@ -1,3 +1,5 @@
+// Goal is to modify this code to include HTU sensor board
+// April7, 2018 
 
 #include <ESP8266WiFi.h>
 #include <ClosedCube_HDC1080.h>
